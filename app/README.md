@@ -13,7 +13,7 @@
      
 # ZombieShooter (PiS, SoSe2021)
 
-Autor: Loic Maxwell Tchiabe Ngouabe, 5298781
+Autor: Loic Maxwell Tchiabe Ngouabe
 
 ## Kurzbeschreibung
 
