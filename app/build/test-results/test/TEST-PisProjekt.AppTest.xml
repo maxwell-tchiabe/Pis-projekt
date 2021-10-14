@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PisProjekt.AppTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-07-03T23:08:22" hostname="LAPTOP-GCGCCHOC" time="0.013">
+  <properties/>
+  <testcase name="count_zombieTest" classname="PisProjekt.AppTest" time="0.004"/>
+  <testcase name="summeOfEnemyTest" classname="PisProjekt.AppTest" time="0.001"/>
+  <testcase name="isBadPlayerTrue" classname="PisProjekt.AppTest" time="0.002"/>
+  <testcase name="iskollisionFalse" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="isGameOverTrue" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="isBadPlayerfalse" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="nameOfSpielerTest" classname="PisProjekt.AppTest" time="0.002"/>
+  <testcase name="toStringTest" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="iskollisionTrue" classname="PisProjekt.AppTest" time="0.001"/>
+  <testcase name="resetBallFalse" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="resetBallTrue" classname="PisProjekt.AppTest" time="0.0"/>
+  <testcase name="isGameOverFalse" classname="PisProjekt.AppTest" time="0.001"/>
+  <testcase name="getMinTest" classname="PisProjekt.AppTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
